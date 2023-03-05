@@ -1,6 +1,6 @@
 # VIBE- Find your match
 
-Live Web App Link - https://toteja-vibe-find-your-match-main-ht44o6.streamlit.app/
+Live Web App Link - https://toteja-vibe-find-your-match-main-c9dio0.streamlit.app/
 
 ## P.S.- PROFILE SCORING AND FETCHING RANDOM PROFILES
 
