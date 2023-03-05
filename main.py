@@ -111,6 +111,7 @@ if(selected_gender):
     st.write("Profile Match Percentage - {}".format(t))
     st.markdown("Name: XXXX")
     st.markdown("Gender: {}".format(ge))
+    st.write("Interests of XXX include - ")
     st.write(i)
 
     for i in range(2, 11):
@@ -129,5 +130,6 @@ if(selected_gender):
         st.write("Profile Match Percentage - {}".format(t))
         st.markdown("Name: XXXX")
         st.markdown("Gender: {}".format(ge))
+        st.write("Interests of XXX include - ")
         st.write(it)
 
